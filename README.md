@@ -9,6 +9,14 @@ Which parts of the available designs suit the current supply chain situation
 What from the Firmware side do we need to develop ourselves that isn't available in current solutions?
 
 
+
+Research:
+https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30079-5/fulltext
+From the lancet report above: From 710 patients with SARS-CoV-2 pneumonia, 52 critically ill adult patients were included...
+37 (71%) patients required mechanical ventilation. 
+
+
+
 Sources:
 
 RWTH Uni Aachen - Nice interations on Mechanical designs:
