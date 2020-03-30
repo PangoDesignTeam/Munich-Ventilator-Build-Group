@@ -45,4 +45,5 @@ FabFactory Diving mask CPAP Design:
 https://www.isinnova.it/easy-covid19-eng/
 
 Oxford uni, Pressure driven Ambu bag design, love it:
+https://www.medsci.ox.ac.uk/news/developing-a-prototype-for-rapidly-deployable-ventilator
 https://www.youtube.com/watch?v=xdZtMgpxnPI
