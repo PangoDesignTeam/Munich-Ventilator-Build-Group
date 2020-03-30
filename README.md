@@ -29,3 +29,7 @@ https://github.com/LeClubSandwichStudio/MUR
 
 Strupat design, could be amazing but no information:
 https://open-source-covid-19-ventilator-canada.mn.co/
+
+CPAP Design rapidly designed and made going into prodcution from F1 Team Mercedes:
+https://www.bbc.com/news/health-52087002
+
