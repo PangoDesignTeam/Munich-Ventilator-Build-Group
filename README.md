@@ -41,3 +41,7 @@ https://open-source-covid-19-ventilator-canada.mn.co/
 CPAP Design rapidly designed and made going into prodcution from F1 Team Mercedes:
 https://www.bbc.com/news/health-52087002
 
+FabFactory Diving mask CPAP Design:
+https://www.isinnova.it/easy-covid19-eng/
+
+
